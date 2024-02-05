@@ -1,8 +1,8 @@
 # Hello World, eu me chamo Leila!👋🏽
 
+<img align="right" height= "200px" src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" alt="GifNoFace">
 
 *coisinhas sobre mim:*
-<img align="right" height= "200px" src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" alt="GifNoFace">
 
 - 🎓 Estudante de Engenharia de Software
 - 👩🏻‍💻 Atualmente estudando Back-end (Java e C#)
