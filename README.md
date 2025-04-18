@@ -1,22 +1,16 @@
-<h3>Olá, eu sou a Leila! </h3>
 
 [![Gmail](https://img.shields.io/badge/Gmail-black.svg?logo=Gmail&logoColor=white)](mailto:leiila.hort@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leila-hortencio/)
 
 <samp>
-<h6>Sobre mim</h6>
+<h4>Olá, eu sou a Leila!</h4>
+<h6>
 • Graduanda em Engenharia de Software<br>
-• Focando em estudar Análise de Dados<br>
+• Aspirante a Cientista de Dados<br>
+• Estudando Inteligência Artificial e Machine Learning<br>
+• Aperfeiçoando minhas habilidades em SQL e Python<br>
 • Experiência em Desenvolvimento Web<br>
-• Conhecimento em Suporte TI e Redes
-</samp>
-
-##
-
-<samp>
-<h6>Estudando</h6>
-• Dados: SQL, Python, Power BI, Excel<br>
-• Desenvolvimento: Next.js, TypeScript
+• Conhecimentos em Hardware e Infraestrutura</h6>
 </samp>
 
 ---
