@@ -1,9 +1,5 @@
-
-[![Gmail](https://img.shields.io/badge/Gmail-black.svg?logo=Gmail&logoColor=white)](mailto:leiila.hort@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leila-hortencio/)
-
+𓆉°❀⋆.ೃ࿔*:･𓂃 ࣪˖ ִֶָ𐀔 
 <samp>
-<h4>Olá, eu sou a Leila!</h4>
 <h6>
 • Graduanda em Engenharia de Software<br>
 • Aspirante a Cientista de Dados<br>
@@ -13,6 +9,9 @@
 • Conhecimentos em Hardware e Infraestrutura</h6>
 </samp>
 
+
+[![Gmail](https://img.shields.io/badge/Gmail-black.svg?logo=Gmail&logoColor=white)](mailto:leilah.deoliveira@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leila-hortencio/)
 ---
 
 <h4>Skills</h4>
