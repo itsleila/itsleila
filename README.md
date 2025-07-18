@@ -1,13 +1,13 @@
 𓆉°❀⋆.ೃ࿔*:･𓂃 ࣪˖ ִֶָ𐀔 
-<samp>
-<h6>
-• Graduanda em Engenharia de Software<br>
-• Aspirante a Cientista de Dados<br>
-• Estudando Inteligência Artificial e Machine Learning<br>
-• Aperfeiçoando minhas habilidades em SQL e Python<br>
-• Experiência em Desenvolvimento Web<br>
-• Conhecimentos em Hardware e Infraestrutura</h6>
-</samp>
+
+````bash
+• Graduanda em Engenharia de Software
+• Aspirante a Cientista de Dados
+• Estudando Inteligência Artificial e Machine Learning
+• Aperfeiçoando minhas habilidades em SQL e Python
+• Experiência em Desenvolvimento Web
+• Conhecimentos em Hardware e Infraestrutura
+````
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-black.svg?logo=Gmail&logoColor=white)](mailto:leilah.deoliveira@gmail.com) 
@@ -16,19 +16,20 @@
 
 <h4>Skills</h4>
 
-![Python](https://img.shields.io/badge/python-6F2C91.svg?style=for-the-badge&logo=python&logoColor=black) 
-![MySQL](https://img.shields.io/badge/mysql-6F2C91.svg?style=for-the-badge&logo=mysql&logoColor=black) 
-![PostgreSQL](https://img.shields.io/badge/postgresql-6F2C91.svg?style=for-the-badge&logo=postgresql&logoColor=black) 
-![SQLite](https://img.shields.io/badge/sqlite-6F2C91.svg?style=for-the-badge&logo=sqlite&logoColor=black) 
+![Python](https://img.shields.io/badge/python-0A192F.svg?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-0A192F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-6F2C91.svg?style=for-the-badge&logo=html5&logoColor=black) 
-![CSS3](https://img.shields.io/badge/css3-6F2C91.svg?style=for-the-badge&logo=css3&logoColor=black) 
-![JavaScript](https://img.shields.io/badge/javascript-6F2C91.svg?style=for-the-badge&logo=javascript&logoColor=black) 
-![React.js](https://img.shields.io/badge/react-6F2C91.svg?style=for-the-badge&logo=react&logoColor=black) 
-![React Native](https://img.shields.io/badge/react_native-6F2C91.svg?style=for-the-badge&logo=react&logoColor=black) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-0A192F.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-0A192F.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
-![Java](https://img.shields.io/badge/java-6F2C91.svg?style=for-the-badge&logo=openjdk&logoColor=black) 
-![C#](https://img.shields.io/badge/c%23-6F2C91.svg?style=for-the-badge&logo=csharp&logoColor=black) 
+![HTML5](https://img.shields.io/badge/html5-0A192F.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-0A192F.svg?style=for-the-badge&logo=css&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-0A192F.svg?style=for-the-badge&logo=javascript&logoColor=white) 
+![React.js](https://img.shields.io/badge/react-0A192F.svg?style=for-the-badge&logo=react&logoColor=white) 
+![React Native](https://img.shields.io/badge/react_native-0A192F.svg?style=for-the-badge&logo=react&logoColor=white) 
+
+![Java](https://img.shields.io/badge/java-0A192F.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-0A192F.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 
 
 
@@ -36,5 +37,7 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsleila&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsleila&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000)
+
+
 
