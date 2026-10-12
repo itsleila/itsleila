@@ -1,21 +1,21 @@
 .˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　
 ````bash
-ㅤꨄ︎ Graduanda em Engenharia de Software, com atuação em Análise de Sistemas,
-  Integrações e Automação de Processos.
+ㅤꨄ︎ Graduanda em Engenharia de Software, com experiência em integração de sistemas,
+  automação de processos e desenvolvimento de soluções utilizando Python, SQL e APIs REST.
 
-ㅤꨄ︎ Experiência no desenvolvimento de soluções voltadas à otimização de processos de negócio,
-  integração entre sistemas e manipulação de dados, utilizando principalmente Python, SQL e APIs REST.
+  ꨄ︎ Interesse em Dados, Business Intelligence e Inteligência Artificial, especialmente na exploração de informações,
+  identificação de padrões e aplicação de modelos para resolver problemas reais.
 
 ㅤꨄ︎ Atualmente, meus principais focos são:
-    ˚ Desenvolvimento e integração de sistemas via APIs
-    ˚ Automação de processos e fluxos de negócio
-    ˚ Implementação e customização de soluções CRM
+    ˚ Python e SQL para análise e processamento de dados
     ˚ Tratamento, análise e integração de dados
-    ˚ Desenvolvimento de ferramentas e soluções internas
+    ˚ Análise exploratória, estatística aplicada e visualização de dados
+    ˚ Business Intelligence com Power BI
+    ˚ Desenvolvimento de integrações e automações via APIs
 
 𑣲⋆ Também possuo conhecimentos em desenvolvimento web, bancos de dados relacionais e testes automatizados.
-𑣲⋆ Interesse em aprofundar meus conhecimentos em arquitetura de sistemas, engenharia de software e soluções orientadas a dados.
+𑣲⋆ Interesse em aprofundar meus conhecimentos em fundamentos de Machine Learning e IA aplicada.
 
 ````
 
