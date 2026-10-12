@@ -1,17 +1,21 @@
 .˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　
 ````bash
-Graduanda em Engenharia de Software com foco em Engenharia de Dados.
+ㅤꨄ︎ Graduanda em Engenharia de Software, com atuação em Análise de Sistemas,
+  Integrações e Automação de Processos.
 
-Interesse em construção de pipelines de dados, ETL/ELT, processamento distribuído e plataformas de dados.
+ㅤꨄ︎ Experiência no desenvolvimento de soluções voltadas à otimização de processos de negócio,
+  integração entre sistemas e manipulação de dados, utilizando principalmente Python, SQL e APIs REST.
 
-Atualmente estudando:
-• SQL e Python para processamento e análise de dados
-• Engenharia de dados com Spark e Airflow
-• Containers com Docker
-• Cloud e serviços de dados na AWS
+ㅤꨄ︎ Atualmente, meus principais focos são:
+    ˚ Desenvolvimento e integração de sistemas via APIs
+    ˚ Automação de processos e fluxos de negócio
+    ˚ Implementação e customização de soluções CRM
+    ˚ Tratamento, análise e integração de dados
+    ˚ Desenvolvimento de ferramentas e soluções internas
 
-Também possuo experiência com desenvolvimento web, APIs e testes automatizados.
+𑣲⋆ Também possuo conhecimentos em desenvolvimento web, bancos de dados relacionais e testes automatizados.
+𑣲⋆ Interesse em aprofundar meus conhecimentos em arquitetura de sistemas, engenharia de software e soluções orientadas a dados.
 
 ````
 
@@ -45,14 +49,33 @@ Também possuo experiência com desenvolvimento web, APIs e testes automatizados
 ![Apache Airflow](https://img.shields.io/badge/airflow-0A192F.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-0A192F.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡂⡂⣂⠂⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡃⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠫⠀⠁⠀⠈⠁⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡔⡅⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⡆⠀⠀⠀⢈⡑⠀⠀⠀⠀⡀⠃⠀⠀⠀⠀⠀⠀⠀⡠⢨⣋⣉⣧⡅⣄⠀⠀⠀⠀⠀⡿⣇⠂⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠁⠉⠏⠁⠀⢠⠀⢦⣷⣦⣆⣴⣅⡄⡂⠀⠀⠀⠀⠀⣂⣿⡫⢝⠫⡯⣿⢗⣗⠀⠀⣀⡆⣿⢽⣄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡃⣏⡏⣟⣋⡃⡏⡗⣫⣁⡂⢀⠤⣈⣃⣳⣌⠰⣴⠿⠍⠿⠻⠶⣿⡋⡱⣻⣆⣾⣿⠳⣷⢮⡐⠒⠒
+⠀⠀⠀⠀⠀⠀⡀⡀⡀⡈⣿⣿⢣⡇⣓⠍⡂⢦⠢⠻⣱⣿⡈⣣⣏⢡⣟⠑⠉⢅⢋⡣⣏⢛⡟⠛⠝⢫⣿⣇⠅⠉⠈⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⡍⠉⠉⠰⢸⣿⡿⣿⣗⡲⠋⠉⠁⠒⡄⠈⢮⣀⣖⢊⡅⠂⠀⠀⠀⣇⡎⡠⢙⡅⡁⡀⡂⡸⡟⠂⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠐⠄⠀⠀⠀⢨⠷⡿⣯⡣⠏⡀⠀⠀⠀⠀⠡⠍⣉⡋⣒⡂⠀⠀⠀⠀⣆⡇⢴⣻⡍⠁⠁⠃⢺⣯⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠍⢥⣀⢀⠠⡈⡛⡓⣇⢗⠅⠊⠀⠀⠀⠀⠀⢹⡏⣆⡋⠀⠀⠀⠀⠀⣶⡫⣋⣵⠂⠀⠀⠀⠨⡃⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠁⠁⠉⠁⠀⢇⣛⢿⣕⡹⡈⠀⠂⠀⠀⠀⠀⠃⠀⠀⠀⠀⠀⠀⡬⡃⠣⣭⡺⡀⡀⡀⡀⡬⡁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣷⡅⠁⡊⢫⢉⡃⡀⠄⠀⠂⠀⠀⠀⠀⠀⠀⠀⣐⣀⠃⣁⣯⡍⠈⠁⠂⠊⠀⠄⢀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢨⣿⡇⢀⠊⠙⣧⡂⣧⡄⠄⠀⠀⠀⠀⠀⠀⠀⡨⡃⠃⡴⣲⠁⠀⠀⠀⠀⠀⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⡀⣀⣤⣻⣧⢇⣦⣂⣢⣹⡽⡕⡝⣁⠂⠀⠀⠀⠀⠀⣠⡏⢃⠔⢆⠥⡠⠄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠠⠠⠆⠆⠮⡿⣯⣯⠷⡾⠿⡟⡷⠏⠭⠄⣵⣯⡧⣷⣕⡀⠀⠀⠀⡠⣝⣖⡳⠃⠁⠀⠁⠀⠉⡎⡉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⣾⣇⠒⠀⠀⠀⠀⠑⠤⢭⡛⢯⡫⣤⢦⡡⡵⡖⠅⠀⠀⠀⠀⠀⠀⠰⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢨⣷⠇⠀⠀⠀⠀⠀⠀⠁⢛⣎⣅⠈⡇⡸⡚⠀⠠⠀⠀⠀⠀⠀⠀⡜⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡇⡇⠀⠀⠀⠀⠀⠀⠀⠈⢟⣍⣏⢍⡏⠀⠀⠀⠐⢀⢀⠀⡀⠋⠁⠠⢼⠤⠄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠅⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⡏⣏⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 
+<!-- <img align="right" height="200px" src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" alt="GifComputer"> -->
 
-<img align="right" height="200px" src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" alt="GifComputer">
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsleila&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsleila&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000) --> 
 
 
 
